@@ -21,7 +21,7 @@ want to Mentor..." link and fills in an online form. The form asks her the categ
 she is willing to take on (1-4) and a brief intro about herself as a mentor. Once she hits the Submit button, a corresponding 'Mentor Profile' is created and is added to the
 Mentor's list. She also browses the Mentoring discussion forums and advises
 a couple of recent grads on how best to present themselves at the
-Schlumberger recruitment event.
+Schlumberger recruitment event. Please note that only Alumni cna become mentors. An Alumni is determined from a boolean field in their profile (set only by admin). If true, they are an alumni, if false, they are a student.
  
 == Mentee ==
 
@@ -34,9 +34,9 @@ lure of the Oil and Gas industry has convinced Asghar to go for an
 internship with OGDC, and he finds Sophia's profile quite suitable. He has
 already posted queries on the Mentoring discussion board asking about the
 relevance of knowing how to use AutoCad for an internship position he's
-applying for at Descon. He clicks on 'Request mentorship', which fires off
-a mentorship request to her GIKI Alumni inbox. Sophia checks out the request and
-chooses to 'Accept' the request. She could also select decline with a reason which she can type in. If she declines an email will be sent to the mentee.
+applying for at Descon. When browsing Mentor profiles, the page looks just like regular profile list but it also shows "Industry (category)", is available for mentorship (if the mentor has more slots left to mentor), A link to "request mentorship" (only applicable if there are slots left), A list of current and past mentees and a brief mentor bio (which the mentor enters when applying for becoming a mentor). Asghar can click on Sophia's name and he is taken to her mentor tab where there is a list of the same fields he saw on the Mentor list page but in addition, he sees a list of goals with each Mentee's name. He clicks on 'Request mentorship', where he is asked "send a message to the potential mentor), here he writes why he wants to become Sophia's Mentee then clicks send. This  fires off
+a mentorship request to her GIKI Alumni inbox with a link to Asghar's profile and his message. Sophia checks out the request and
+chooses to 'Accept' the request. She could also select 'decline' with a reason which she can type in. If she declines an email will be sent to the mentee.
  
 == Mentorship ==
 
@@ -50,4 +50,4 @@ Mentors who cannot take on anymore mentees do not have a "request mentorship" li
  
 Both Asghar and Sophia have the option to click on 'End Mentorship' which
 terminates the relationship and they are asked to fill in the last feedback
-form.
+form. This form asks "rate the mentor/mentee 1-5 (10 is great, 1 is really bad)" (drop down), a box for comments and a checkbox for "would you recommend mentor/mentee?".
