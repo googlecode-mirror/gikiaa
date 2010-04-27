@@ -1,0 +1,53 @@
+#summary Implementation details of the mentorship scheme
+#labels Phase-Requirements
+
+= Introduction =
+
+The mentorship scheme is designed to pair seasoned alumni with junior alumni/students. The primary narrative for this feature was written by M. Ali Khattak (j.secretary.gikiaa@googlemail.com) and improved upon by Nash.
+
+== Mentor ==
+
+Sophia graduated from GIKI with a distinction and went on to join
+Schlumberger as a Wireline Engineer. After eight well-renumerated years of
+employment travelling to exotic locations around the world, working on rigs
+not very different in terms of gender breakdown from her alma, she is now
+based at the corporate headquarters pushing paper. Realising she has some
+time to spare, she catches up with her batchmate Jeera who has recently
+registered himself on the new alumni website. She logs on to Gikialumni.com
+and registers herself, and clicks on the Mentoring Program link. A quick
+glance through the mentor profiles convinces her that she too can be a
+mentor and share her experience with fellow Gikians. She clicks on the "I
+want to Mentor..." link and fills in an online form. The form asks her the category of her expertise (a drop down list), how many mentees
+she is willing to take on (1-4) and a brief intro about herself as a mentor. Once she hits the Submit button, a corresponding 'Mentor Profile' is created and is added to the
+Mentor's list. She also browses the Mentoring discussion forums and advises
+a couple of recent grads on how best to present themselves at the
+Schlumberger recruitment event.
+ 
+== Mentee ==
+
+Asghar is an Undergrad/Grad/recent graduate from GIKI, he logs on to
+gikialumni.com, registers himself and clicks on the link to the Mentoring
+program. He browses through the list of mentor profiles - searchable on the basis
+of their name, industry, experience and occupation (academic, employed,
+entrepreneur etc) and checks out profiles of mentors that interest him. The
+lure of the Oil and Gas industry has convinced Asghar to go for an
+internship with OGDC, and he finds Sophia's profile quite suitable. He has
+already posted queries on the Mentoring discussion board asking about the
+relevance of knowing how to use AutoCad for an internship position he's
+applying for at Descon. He clicks on 'Request mentorship', which fires off
+a mentorship request to her GIKI Alumni inbox. Sophia checks out the request and
+chooses to 'Accept' the request. She could also select decline with a reason which she can type in. If she declines an email will be sent to the mentee.
+ 
+== Mentorship ==
+
+Asghar's name and a link to his profile shows up on Sophia's "Mentor
+Profile" (a tab on her profile) under list of mentees. Both of them recieve a link to a form asking them to identify goals for the mentoring relationship with dates
+(optional). A Goal can be entered by Mentor or Mentee but deletable only by Mentor or by goal creator. A goal has a one line brief description (text field), created on (auto-filled), created by (auto-filled), due by (calendar field) and completed (check box showing if this goal is completed or not) fields.
+
+Goals are displayed on the Mentee's profile page under the Mentorship Tab.
+
+Mentors who cannot take on anymore mentees do not have a "request mentorship" link appear on their profile.
+ 
+Both Asghar and Sophia have the option to click on 'End Mentorship' which
+terminates the relationship and they are asked to fill in the last feedback
+form.
