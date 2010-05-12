@@ -1,0 +1,23 @@
+#labels Featured
+
+Majja is a an existing GIKI student and has a magical uyyyyrrr@… email address (yyyy=year of entry of batch eg 2000, rrr is a registration number eg 001 or 101 or 044). His address is u2010012@…. He's heard that the seniors in the GIKI Alumni are Awesome (emphasis on the capital A). He wants to register online. He goes to gikialumni.com, clicks on register and is asked the following information:
+
+  * Working GIKI Email address
+  * Email address (not from GIKI)
+  * First name
+  * Last name
+  * Faculty (Drop Down)
+  * Batch (Drop down, maybe we can remove it since we have the email address which contains batch)
+  * Username
+  * Password
+  * Confirm password (yuck!)
+  * Country (Drop down, should be set to Pakistan by default)
+  * Date of Birth 
+
+Once Majja clicks register, he is sent an email to his address with a secret link to verify his email address. He clicks on it and his account is active and he is registered!
+
+There's another case of Jeera. Jeera is an alumni and now has a grey beard. He has seen many ups and downs in life and would love to sit down with younger gikians and bore them to death about that one time when he told his boss how he was wrong in a boardroom where the president of Pakistan was listening to them giving a... (see how it gets boring?)
+
+In order to join, the administrators of gikialumni.com need to know that Jeera is indeed a Gikian. They also have busy lives playing starcraft. How can they tell that Jeera is a Gikian and not waste time? Here's how: 3 (configurable) existing Alumni site members need to recommend a non-giki email address for it to get registered. When Jeera registers, we see if he has 3 recommendations. If he doesn't, we send an email to 10 random people in his batch who are registered on the site to please verify if he is a GIKIAN. We do this by sending them a link which they need to click (the link recommends the email address from them).
+
+Once confirmed, they become members :)
