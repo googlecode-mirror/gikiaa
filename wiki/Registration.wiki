@@ -1,5 +1,4 @@
-#labels Featured
-
+#labels Phase-Requirements
 Majja is a an existing GIKI student and has a magical uyyyyrrr@… email address (yyyy=year of entry of batch eg 2000, rrr is a registration number eg 001 or 101 or 044). His address is u2010012@…. He's heard that the seniors in the GIKI Alumni are Awesome (emphasis on the capital A). He wants to register online. He goes to gikialumni.com, clicks on register and is asked the following information:
 
   * Working GIKI Email address
